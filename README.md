@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm NAVEEN</h1>
 <h3 align="center">Junior Full Stack Developer | MERN Maverick | Building Web Wonders</h3>
 
-<p align="left"> <img src="https://drive.google.com/drive/u/1/folders/1XW6EKBSXUWmeCk9Fp9Wzwa-a1eo_QsZt" alt="naveenkarmegam" /> </p>
+<p align="left"> <img src="https://github.com/naveenkarmegam/naveenkarmegam/blob/main/BACKGROUND%20DESIGN.jpg" alt="naveenkarmegam" /> </p>
 
 <p align="left"> <a href="https://twitter.com/naveen_mern" target="blank"><img src="https://img.shields.io/twitter/follow/naveen_mern?logo=twitter&style=for-the-badge" alt="naveen_mern" /></a> </p>
 
