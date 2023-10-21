@@ -4,7 +4,7 @@
 
 <h3 align="center">Junior Full Stack Developer | MERN Maverick | Building Web Wonders</h3>
 
-<p align="left"> <img src="https://github.com/naveenkarmegam/naveenkarmegam/blob/main/BACKGROUND%20DESIGN.jpg" alt="naveenkarmegam" /> </p>
+<p align="left"> <img src="https://github.com/naveenkarmegam/naveenkarmegam/blob/3b2abb321b67ba7fb8064331485825f9433723b1/BACKGROUND.jpg" alt="naveenkarmegam" /> </p>
 
 <div align="justify">
  
